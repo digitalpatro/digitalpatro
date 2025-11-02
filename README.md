@@ -1,6 +1,6 @@
 # 📅 Digital Patro Nepali Calendar
 
-![Digital Patro Banner](https://digitalpatro.app/assets/img/logo192.webp)
+![Digital Patro Banner](https://preview.redd.it/introducing-digital-patro-the-smarter-nepali-calendar-for-v0-gqb4s8bmq7uf1.png?width=767&format=png&auto=webp&s=84d5031d10cadcb469ab7c904dcce41b38c2258f)
 
 **Digital Patro** is your modern, ad-free Nepali calendar app packed with festival info, Panchang, reminders, and useful daily tools for everyone who values Nepali culture and convenience.
 
