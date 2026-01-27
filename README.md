@@ -1,4 +1,4 @@
-# ([Digital Patro Nepali Calendar](https://digitalpatroapp.com))
+# [Digital Patro Nepali Calendar](https://digitalpatroapp.com)
 
 ![Digital Patro Banner](https://preview.redd.it/introducing-digital-patro-the-smarter-nepali-calendar-for-v0-gqb4s8bmq7uf1.png?width=767&format=png&auto=webp&s=84d5031d10cadcb469ab7c904dcce41b38c2258f)
 
