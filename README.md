@@ -1,4 +1,4 @@
-# 📅 Digital Patro Nepali Calendar
+# ([Digital Patro Nepali Calendar](https://digitalpatroapp.com))
 
 ![Digital Patro Banner](https://preview.redd.it/introducing-digital-patro-the-smarter-nepali-calendar-for-v0-gqb4s8bmq7uf1.png?width=767&format=png&auto=webp&s=84d5031d10cadcb469ab7c904dcce41b38c2258f)
 
@@ -20,7 +20,7 @@
   - Marriage, bratabandha, pasni, griha pravesh, nwaran dates
 
 - **Events & Reminders**
-  - See upcoming events and programs ([Events](https://digitalpatro.app/events))
+  - See upcoming events and programs ([Events](https://digitalpatroapp.com/events))
   - Personal reminders for pujas, birthdays, and more
   - Custom notifications so you never miss a date
 
@@ -28,7 +28,7 @@
   - Daily weather updates for Kathmandu and other locations
 
 - **Date Converter**
-  - Convert Nepali-English dates instantly ([BS↔AD Converter](https://digitalpatro.app/date-converter/nepali-english-date-converter))
+  - Convert Nepali-English dates instantly ([BS↔AD Converter](https://digitalpatroapp.com/date-converter/nepali-english-date-converter))
 
 - **User Experience**
   - Clean, modern, highly readable interface
@@ -40,26 +40,26 @@
 
 ## 🎉 Festival & Event Highlights
 
-![Festival Banner](https://digitalpatro.app/assets/img/savings.webp)
+![Festival Banner](https://digitalpatroapp.com/assets/img/savings.webp)
 
 - Major festivals auto-highlighted every month.
 - Custom event reminders.
-- Public holiday locator ([Holiday List](https://digitalpatro.app/holidays)).
+- Public holiday locator ([Holiday List](https://digitalpatroapp.com/holidays)).
 
 ---
 
 ## 🛠️ Handy Services
 
-- **Horoscope** ([Daily Horoscope](https://digitalpatro.app/horoscope/daily-horoscope))
-- **Events** ([Program List](https://digitalpatro.app/events))
-- **Public Holidays** ([All Holidays](https://digitalpatro.app/holidays))
-- **Date Converter** ([BS↔AD](https://digitalpatro.app/date-converter/nepali-english-date-converter))
+- **Horoscope** ([Daily Horoscope](https://digitalpatroapp.com/horoscope/daily-horoscope))
+- **Events** ([Program List](https://digitalpatroapp.com/events))
+- **Public Holidays** ([All Holidays](https://digitalpatroapp.com/holidays))
+- **Date Converter** ([BS↔AD](https://digitalpatroapp.com/date-converter/nepali-english-date-converter))
 
 ---
 
 ## 📱 Download Links
 
-- **Official Website:** [digitalpatro.app](https://digitalpatro.app)
+- **Official Website:** [digitalpatro.app](https://digitalpatroapp.com)
 - **Universal Download (iOS & Android):** [OneLink](https://onelink.to/pg5jke)
 - **Google Play Store:** [Digital Patro Nepali Calendar](https://play.google.com/store/apps/details?id=com.rudrakx.calendar)
 - **Apple App Store:** [Digital Patro Nepali Calendar (iOS)](https://apps.apple.com/app/digital-patro-nepali-calendar/6747698614)
@@ -68,7 +68,7 @@
 
 ## 👥 Social Media
 
-![Social Banner](https://digitalpatro.app/assets/img/screenshots/calender_dark.webp)
+![Social Banner](https://digitalpatroapp.com/assets/img/screenshots/calender_dark.webp)
 
 - [Instagram](https://www.instagram.com/digital_patro/)
 - [Facebook](https://www.facebook.com/digitalpatroapp)
@@ -85,7 +85,7 @@
 
 ---
 
-> Digital Patro is powered by **YHH IT Solutions**. For FAQs, privacy policy, and terms, visit [digitalpatro.app](https://digitalpatro.app).
+> Digital Patro is powered by **YHH IT Solutions**. For FAQs, privacy policy, and terms, visit [digitalpatro.app](https://digitalpatroapp.com).
 
 ---
 
